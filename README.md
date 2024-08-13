@@ -1,3 +1,2 @@
 # 🐧 Falco Linux 
-Linux distro with the mission to run Windows application seamlessly
-
+Falco Linux (Falco Lnx) is a lightweight and performance-driven Linux distribution crafted specifically for gamers. Our mission is to enable seamless execution of Windows applications without relying on Wine or any traditional emulators. By optimizing the system architecture, Falco Linux delivers a streamlined and efficient environment, empowering users to enjoy their favorite Windows-based software natively within a robust Linux ecosystem.
